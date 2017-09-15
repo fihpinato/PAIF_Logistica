@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PAIF_Logistica</string>
+    <string name="Cep_Text">Digite aqui seu CEP</string>
+    <string name="pesquisar_text">Pesquisar</string>
+</resources>
